@@ -1,0 +1,253 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.7.5"
+    },
+    "node": {
+        "__typename": "GraphSidecar",
+        "accessibility_caption": "Photo by BLACK PALMS on July 25, 2021. May be an image of brick wall and text that says 'You count bombs we count fresh air and clean water 4\u12ad life iu s is all about tthe little things'.",
+        "caption_is_edited": true,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 800,
+                "config_width": 640,
+                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=AP_V10EBAAAA&ccb=7-4&oh=e9f967cc789b157ce2b0e92c000dfbdc&oe=61056E57&_nc_sid=4f375e"
+            },
+            {
+                "config_height": 937,
+                "config_width": 750,
+                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=AP_V10EBAAAA&ccb=7-4&oh=9b09ec7876aa9574451d0bdbec3ffbd2&oe=61044B53&_nc_sid=4f375e"
+            },
+            {
+                "config_height": 1350,
+                "config_width": 1080,
+                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=AP_V10EBAAAA&ccb=7-4&oh=e017e22c2cbeecbd64f4a9a452e3a2e3&oe=6105BA14&_nc_sid=4f375e"
+            }
+        ],
+        "display_url": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=AP_V10EBAAAA&ccb=7-4&oh=e017e22c2cbeecbd64f4a9a452e3a2e3&oe=6105BA14&_nc_sid=4f375e",
+        "edge_liked_by": {
+            "count": 50
+        },
+        "edge_media_preview_like": {
+            "count": 50,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Our national accounting must include and measure our interaction with people (wellbeing) and the environment (ecological diversity)\n\nEcological economic accounting must include free, prior and informed consent and justice for indigenous peoples, poor peoples and impacted peoples. \n\nWe count! \n\nPlease go to @intemerate.earth to learn more \nabout revolutionizing our view of GDP to \nprioritize the restoration of the planet \nand our humanity. \n\n@poetwastaken @teacakeartist \n\n#indigenouslivesmatter #biodiversity #savetheearth #anticapitalism #anticolonialism #pasteup #protestart #protestsigns #littlethings #losangelesgraffiti #pink #streetartdaily #stencilgraffiti #aphorism #life \n#arteurbana #pochoir #stencils #stencilartist \n#streetarts \n#boycottamazon #votewithyourdollar \n#therevolutionwillnotbetelevised \n#eattherich #taxtherich \n#peopleoverprofit"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_sidecar_to_children": {
+            "edges": [
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by BLACK PALMS on July 25, 2021. May be an image of brick wall and text that says 'You count bombs we count fresh air and clean water 4\u12ad life iu s is all about tthe little things'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=AP_V10EBAAAA&ccb=7-4&oh=e9f967cc789b157ce2b0e92c000dfbdc&oe=61056E57&_nc_sid=4f375e"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=AP_V10EBAAAA&ccb=7-4&oh=9b09ec7876aa9574451d0bdbec3ffbd2&oe=61044B53&_nc_sid=4f375e"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=AP_V10EBAAAA&ccb=7-4&oh=e017e22c2cbeecbd64f4a9a452e3a2e3&oe=6105BA14&_nc_sid=4f375e"
+                            }
+                        ],
+                        "display_url": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=AP_V10EBAAAA&ccb=7-4&oh=e017e22c2cbeecbd64f4a9a452e3a2e3&oe=6105BA14&_nc_sid=4f375e",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2626043491686367599",
+                        "is_video": false,
+                        "media_preview": "ACEq3JjjHOMn+hqu2WicE54P8jU7lXOzIyOxppQhGXgkg459qOgrO93sYAjbAH/1v68UgjcEYPXj/PPX3q/9kZSCAoHuR/nrUdzaMFby8cjjBAJPHuKys+x1cxUy3v8Ar/jRWZ5E3ofz/wDr0VXKRz+R1TfNNg4I9/pVgog/hH5VQt5TI4Y4ySeg4x/n9atyqzHCnaB39z/nH4n2rYp7R9EPCLu6Dp6D3pSo9B+QoUY98Ac/nSk80Eo5nNFRZoqTM0bE8p7E/wBa0JZgGKjafqM+/qOhFZ1h/D9T/Wp2GWNaJXOuMVJRv/Ki4Jd2COf09aZJK3GPWo0/z+tTJ1FO1h2UTmN1FT7R6CisjiP/2Q==",
+                        "shortcode": "CRxlKRusUFv",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMTBlMWFiNzczMGY0NDNhNWI1YjM5OWFkNjllMDBkMTMyNjI2MDQzNDkxNjg2MzY3NTk5In0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by BLACK PALMS on July 25, 2021. May be an image of bird.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/224963131_3004246709805801_4522666585033419114_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=gl0sq0m8FdkAX8HvsXa&edm=AP_V10EBAAAA&ccb=7-4&oh=545b71a5a2a59ca3ae2e23fb3154e791&oe=61059141&_nc_sid=4f375e"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/224963131_3004246709805801_4522666585033419114_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=gl0sq0m8FdkAX8HvsXa&edm=AP_V10EBAAAA&ccb=7-4&oh=e3243bb3e5d418312caabde4f0fdb52c&oe=610431FA&_nc_sid=4f375e"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/224963131_3004246709805801_4522666585033419114_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=gl0sq0m8FdkAX8HvsXa&edm=AP_V10EBAAAA&ccb=7-4&oh=1e3826be37336aadb4c87b971fc71f8d&oe=61046B4D&_nc_sid=4f375e"
+                            }
+                        ],
+                        "display_url": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/224963131_3004246709805801_4522666585033419114_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=gl0sq0m8FdkAX8HvsXa&edm=AP_V10EBAAAA&ccb=7-4&oh=1e3826be37336aadb4c87b971fc71f8d&oe=61046B4D&_nc_sid=4f375e",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2626043491476607159",
+                        "is_video": false,
+                        "media_preview": "ACEq2JGIUkdRVVZ2P+TVmYHy37deagjCrHvkOO2e1CSd2yW3dKOrYwysT1I/OkWRgwGc59adMPLcAEHjPP8A9ao1wzqfQ1fu2cetjL3uZSd7X/4BfxRTc0VmbizECNs9B/8AWqtDcZXEijZ2zg/T257CrEh+Rv8APpVIrvYHsuTj1PQf/WrSOqZhOXK0/Lf+u5JLJ5hDZxjjgVGrYdRnqe/H5Upzgnke31qPq6Hpg45qLtpvy87du7/Ipbr18r7X7L8zR5opc0UjQiuDtjP1/qKrK9T3IzG31/rWPHw5Hb0pqfK2rXFKl7RJ3tbTa/6ltueFwQPf+dRiTMiqcZ3Dp2qvIdrHbx8vbj1qO2OZFJ55pcy5bpWv/XYpQ960nfltbTX82dHkUVFmigR//9k=",
+                        "shortcode": "CRxlKRiMJC3",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMTBlMWFiNzczMGY0NDNhNWI1YjM5OWFkNjllMDBkMTMyNjI2MDQzNDkxNDc2NjA3MTU5In0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by BLACK PALMS on July 25, 2021. May be an image of brick wall.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/223952482_326833152499226_6298729045369646035_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=epd-YFm1NOwAX_d-fK_&edm=AP_V10EBAAAA&ccb=7-4&oh=28fd133cfd1f313e9698ece9acecc9c7&oe=610539B0&_nc_sid=4f375e"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/223952482_326833152499226_6298729045369646035_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=epd-YFm1NOwAX_d-fK_&edm=AP_V10EBAAAA&ccb=7-4&oh=b044a6b266660c045b146bd8d5f47ce1&oe=6105F86C&_nc_sid=4f375e"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/223952482_326833152499226_6298729045369646035_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=epd-YFm1NOwAX_d-fK_&edm=AP_V10EBAAAA&ccb=7-4&oh=5a91005dcba8e8dc5c85e2d2f0ed1ec6&oe=6104D82B&_nc_sid=4f375e"
+                            }
+                        ],
+                        "display_url": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/223952482_326833152499226_6298729045369646035_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=epd-YFm1NOwAX_d-fK_&edm=AP_V10EBAAAA&ccb=7-4&oh=5a91005dcba8e8dc5c85e2d2f0ed1ec6&oe=6104D82B&_nc_sid=4f375e",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2626043491485184726",
+                        "is_video": false,
+                        "media_preview": "ACEqfA7N8pHHr/nvVlF5PfFV7OTYpLc4q8MkkgDHXOf6VBRJtwMGuefBJ/H+dbspzgnt14P6VhTxmIZbBznH86dil1K+P85oqt5ze1FFhXNaK6ABGDyc9f0q0LwkjGAehz3H+e9MFvH/AHR+Z/xqUQxr/D/Oi6JsXX+916Y4rH1M8AfX+larsM5yKqTosmMgNVPY32RzNFbv2SL+6PzNFTcxLgkTPBHHr/TkVMskRHJB/Ef41zQAq9Eo9BTsK5sNJH/eH/fQ/wAahaWEdSCfqP8AGqpRSOg/KqrovoPyoBvuaP2mD+8v6UVkbF9B+VFMD//Z",
+                        "shortcode": "CRxlKRis3LW",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMTBlMWFiNzczMGY0NDNhNWI1YjM5OWFkNjllMDBkMTMyNjI2MDQzNDkxNDg1MTg0NzI2In0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2626043494823637185",
+        "is_ad": false,
+        "is_video": false,
+        "location": {
+            "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Irvine, California\", \"region_name\": \"\", \"country_code\": \"US\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}",
+            "has_public_page": true,
+            "id": "483363486",
+            "name": "Earth",
+            "slug": "earth"
+        },
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "BLACK PALMS",
+            "has_blocked_viewer": false,
+            "id": "6002839839",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/138561002_147768223814413_2733617105053412943_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_ohc=paZbl5giPrQAX-l_cl7&edm=AP_V10EBAAAA&ccb=7-4&oh=0808d45608d92d5dbe34a8be808d8016&oe=61059D82&_nc_sid=4f375e",
+            "requested_by_viewer": false,
+            "username": "blk_plms"
+        },
+        "shortcode": "CRxlKUpsDDB",
+        "taken_at_timestamp": 1627268801,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.180.1440.1440a/s150x150/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=ABZsPhsBAAAA&ccb=7-4&oh=d5dc1c0e90f785591264c084c69a679a&oe=6104C348&_nc_sid=4efc9f"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.180.1440.1440a/s240x240/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=ABZsPhsBAAAA&ccb=7-4&oh=c60967f68d526078836eb22bbae6fa52&oe=61061402&_nc_sid=4efc9f"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.180.1440.1440a/s320x320/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=ABZsPhsBAAAA&ccb=7-4&oh=ceb21db450d54a8e74ee0b665f4611bf&oe=61054200&_nc_sid=4efc9f"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.180.1440.1440a/s480x480/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=ABZsPhsBAAAA&ccb=7-4&oh=7359e796b31b651c3b2db55dd5eae674&oe=6104D979&_nc_sid=4efc9f"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=ABZsPhsBAAAA&ccb=7-4&oh=2c91fd0830d797582ad2ebfea585b104&oe=6104F8F8&_nc_sid=4efc9f"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fsin7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/223833701_842106959769550_2363487556882494559_n.jpg?_nc_ht=instagram.fsin7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=IkSQ9bkcPYIAX8hH4CH&edm=ABZsPhsBAAAA&ccb=7-4&oh=2c91fd0830d797582ad2ebfea585b104&oe=6104F8F8&_nc_sid=4efc9f",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMTBlMWFiNzczMGY0NDNhNWI1YjM5OWFkNjllMDBkMTMyNjI2MDQzNDk0ODIzNjM3MTg1In0sInNpZ25hdHVyZSI6IiJ9",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}
